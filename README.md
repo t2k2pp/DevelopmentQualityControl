@@ -9,6 +9,8 @@
 
 ## 書籍
 
+[まとめPDFはこちらから](https://github.com/t2k2pp/DevelopmentQualityControl/blob/main/Books/quality-management.pdf)
+
 ### 開発品質管理書籍の紹介文
 
 #### 1：[品質マネジメントの基本](https://github.com/t2k2pp/DevelopmentQualityControl/blob/main/Books/1.quality-management-basics.md)
