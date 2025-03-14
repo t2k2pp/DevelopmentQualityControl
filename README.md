@@ -9,9 +9,9 @@
 
 ## 書籍
 
-# 開発品質管理書籍の紹介文
+### 開発品質管理書籍の紹介文
 
-## 1：[品質マネジメントの基本](https://github.com/t2k2pp/DevelopmentQualityControl/blob/main/Books/1.quality-management-basics.md)
+#### 1：[品質マネジメントの基本](https://github.com/t2k2pp/DevelopmentQualityControl/blob/main/Books/1.quality-management-basics.md)
 
 **「品質の基本原則を理解し、開発現場に適用するための入門書」**
 
@@ -19,7 +19,7 @@ ISO9000の品質マネジメント原則をソフトウェア開発の文脈で�
 
 現場エンジニアからチームリーダーまで、品質の基礎知識を身につけたい全ての方に最適です。特に新たに品質への取り組みを始めるチームや、品質の基本を改めて確認したい方におすすめします。豊富なコラムで現場感覚を養いながら、理論と実践の橋渡しができる一冊です。
 
-## 2：[開発ライフサイクルにおける品質管理](https://github.com/t2k2pp/DevelopmentQualityControl/blob/main/Books/2.development-lifecycle-quality.md)
+#### 2：[開発ライフサイクルにおける品質管理](https://github.com/t2k2pp/DevelopmentQualityControl/blob/main/Books/2.development-lifecycle-quality.md)
 
 **「各開発フェーズで何をすべきかが明確になる実践ガイド」**
 
@@ -27,7 +27,7 @@ ISO9000の品質マネジメント原則をソフトウェア開発の文脈で�
 
 主に実務経験1〜5年程度のエンジニアと、チームリーダーや主任エンジニアをターゲットにしています。特にプロジェクトの各フェーズで適切な品質管理活動を実施したいリーダー職の方々にとって、実践的なガイドラインとなるでしょう。「金曜日の夕方にリリースしてはいけない理由」など、経験者の知恵が詰まった実用的なコラムも満載です。
 
-## 3：[実例から学ぶ品質問題とその対応](https://github.com/t2k2pp/DevelopmentQualityControl/blob/main/Books/3.case-studies-quality-issues.md)
+#### 3：[実例から学ぶ品質問題とその対応](https://github.com/t2k2pp/DevelopmentQualityControl/blob/main/Books/3.case-studies-quality-issues.md)
 
 **「他社の失敗と成功から学ぶ、実践的な品質問題解決ガイド」**
 
@@ -35,7 +35,7 @@ ISO9000の品質マネジメント原則をソフトウェア開発の文脈で�
 
 中堅エンジニアからプロジェクトマネージャー、品質管理担当者まで、幅広い役職の方々に有益です。特に、「同じ失敗を繰り返さない」ための知識を得たいチームリーダーや主任職の方に最適です。他社の痛みから学ぶことで、自社での同様の問題を未然に防ぐことができるでしょう。問題の「なぜ」に焦点を当て、再発防止のための本質的な対策を学べる一冊です。
 
-## 4：[品質を組織文化に組み込む](https://github.com/t2k2pp/DevelopmentQualityControl/blob/main/Books/4.quality-organizational-culture.md)
+#### 4：[品質を組織文化に組み込む](https://github.com/t2k2pp/DevelopmentQualityControl/blob/main/Books/4.quality-organizational-culture.md)
 
 **「持続可能な品質向上を実現する組織文化の作り方」**
 
