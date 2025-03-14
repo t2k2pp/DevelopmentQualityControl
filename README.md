@@ -1,3 +1,14 @@
+# 開発品質管理
+
+## 書籍(書籍)
+* セミナー(##セミナー)
+* e-Learning(##e-Learning)
+* クイックリファレンス(##クイックリファレンス)
+* チェックリスト(##チェックリスト)
+
+
+## 書籍
+
 # 開発品質管理書籍の紹介文
 
 ## 1：品質マネジメントの基本
@@ -31,3 +42,43 @@ ISO9000の品質マネジメント原則をソフトウェア開発の文脈で�
 品質を一時的な取り組みではなく、組織文化として根付かせるための体系的なアプローチを提示しています。リーダーシップのコミットメント、全員参加の原則、継続的な学習と改善など、品質文化の重要要素と構築プロセスを詳述しています。実際に品質文化の変革に成功した企業の事例分析も収録。
 
 主にリーダー職、主任職、課長職など、組織やチームの方向性に影響を与える立場の方々を対象としています。特に「どうすれば品質への取り組みが一過性で終わらないか」という課題に直面している管理職の方に強くお勧めします。個人の貢献から組織全体の変革まで、品質文化構築の実践的なロードマップを提供する必携の一冊です。
+
+
+## セミナー
+
+* [セミナー推薦文](https://github.com/t2k2pp/DevelopmentQualityControl/blob/main/Seminor/README.md)
+* [スライド](https://github.com/t2k2pp/DevelopmentQualityControl/blob/main/Seminor/quality-training-slides.md)
+* [トークスクリプト](https://github.com/t2k2pp/DevelopmentQualityControl/blob/main/Seminor/quality-training-script.md)
+
+## e-Learning
+
+* [e-Learningの全体設計](https://github.com/t2k2pp/DevelopmentQualityControl/blob/main/e-Learning/elearning-overview.md)
+* [セクション1](https://github.com/t2k2pp/DevelopmentQualityControl/blob/main/e-Learning/elearning-section1.md)
+* [セクション1 確認テスト](https://github.com/t2k2pp/DevelopmentQualityControl/blob/main/e-Learning/elearning-section1-test.md)
+* [セクション2](https://github.com/t2k2pp/DevelopmentQualityControl/blob/main/e-Learning/elearning-section2.md)
+* [セクション2 確認テスト](https://github.com/t2k2pp/DevelopmentQualityControl/blob/main/e-Learning/elearning-section2-test.md)
+* [セクション3](https://github.com/t2k2pp/DevelopmentQualityControl/blob/main/e-Learning/elearning-section3.md)
+* [セクション3 確認テスト](https://github.com/t2k2pp/DevelopmentQualityControl/blob/main/e-Learning/elearning-section3-test.md)
+* [セクション4](https://github.com/t2k2pp/DevelopmentQualityControl/blob/main/e-Learning/elearning-section4.md)
+* [セクション4 確認テスト](https://github.com/t2k2pp/DevelopmentQualityControl/blob/main/e-Learning/elearning-section4-test.md)
+
+## クイックリファレンス
+
+* [開発品質管理クイックリファレンス](https://github.com/t2k2pp/DevelopmentQualityControl/blob/main/QuickReference/QuickReferenceGuide.md)
+
+## チェックリスト
+
+* [品質チェックリスト運用ルール](https://github.com/t2k2pp/DevelopmentQualityControl/blob/main/Checklist/00.operating-rules.md)
+* [要件定義フェーズ品質チェックリスト](https://github.com/t2k2pp/DevelopmentQualityControl/blob/main/Checklist/01.requirements-checklist.md)
+* [設計フェーズ品質チェックリスト](https://github.com/t2k2pp/DevelopmentQualityControl/blob/main/Checklist/02.design-checklist.md)
+* [実装フェーズ品質チェックリスト](https://github.com/t2k2pp/DevelopmentQualityControl/blob/main/Checklist/03.implementation-checklist.md)
+* [テストフェーズ品質チェックリスト](https://github.com/t2k2pp/DevelopmentQualityControl/blob/main/Checklist/04.test-checklist.md)
+* [リリース・デプロイメントフェーズ品質チェックリスト](https://github.com/t2k2pp/DevelopmentQualityControl/blob/main/Checklist/05.release-deployment-checklist.md)
+* [運用・保守フェーズ品質チェックリスト](https://github.com/t2k2pp/DevelopmentQualityControl/blob/main/Checklist/06.operation-maintenance-checklist.md)
+* [コードレビュー品質チェックリスト](https://github.com/t2k2pp/DevelopmentQualityControl/blob/main/Checklist/07.code-review-checklist.md)
+* [CI/CD品質チェックリスト](https://github.com/t2k2pp/DevelopmentQualityControl/blob/main/Checklist/08.cicd-checklist.md)
+* [品質チェックリストカスタマイズガイド](https://github.com/t2k2pp/DevelopmentQualityControl/blob/main/Checklist/09.checklist-customization-guide.md)
+
+## 開発品質管理書籍・研修の配布・実施に関する注意点と配慮点
+
+* [開発品質管理書籍・研修の配布・実施に関する注意点と配慮点](https://github.com/t2k2pp/DevelopmentQualityControl/blob/main/distribution-implementation-notes.md)
