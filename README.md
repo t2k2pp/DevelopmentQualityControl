@@ -9,7 +9,11 @@
 
 ## 書籍
 
-[まとめPDFはこちらから](https://github.com/t2k2pp/DevelopmentQualityControl/blob/main/Books/quality-management.pdf)
+* [ISO9000からはじめる開発品質](https://github.com/t2k2pp/DevelopmentQualityControl/blob/main/Books/ISO9000%E3%81%8B%E3%82%89%E3%81%AF%E3%81%98%E3%82%81%E3%82%8B%E9%96%8B%E7%99%BA%E5%93%81%E8%B3%AA.pdf) <おすすめ！>
+* [開発品質教育](https://github.com/t2k2pp/DevelopmentQualityControl/blob/main/Books/quality-management.pdf)
+
+
+**以降は上記の開発品質教育の内容になります。**
 
 ### 開発品質管理書籍の紹介文
 
